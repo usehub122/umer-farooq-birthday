@@ -1,0 +1,18 @@
+CLOUDFLARE PAGES DEPLOYMENT
+===========================
+
+This is a React + Vite project.
+
+Cloudflare Pages settings:
+- Framework preset: React (Vite)
+- Production branch: main
+- Build command: npm run build
+- Build output directory: dist
+- Root directory: / (leave default)
+
+Important:
+- Do NOT upload the ZIP itself as the website files.
+- If using Cloudflare Pages with GitHub, upload the PROJECT CONTENTS to the GitHub repository, then connect that repository to Cloudflare Pages.
+- Cloudflare will install dependencies, run npm run build, and deploy the generated dist folder.
+
+The original AI Studio design, animations, images, audio behavior, and app flow are preserved.

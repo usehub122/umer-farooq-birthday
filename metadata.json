@@ -1,0 +1,6 @@
+{
+  "name": "Umer Farooq Birthday Celebration",
+  "description": "An exclusive birthday tribute for Umer Farooq with interactive puzzle, midnight countdown, photo showcase, wishes balloons, royal letter, and cake cutting ceremony.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
